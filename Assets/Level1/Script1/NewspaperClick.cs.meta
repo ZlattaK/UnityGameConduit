@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d8009346e390f7543b4ee8838d6feaaa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - unfoldedPrefab: {fileID: 6478081717533478564, guid: 65ac47fa42441b24f88938b019891eaf, type: 3}
+  - businessCardPrefab: {fileID: 6673048675051522181, guid: 0e51affe64786a643a42b13c09385825, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
